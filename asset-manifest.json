@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tevvels/Portfolio2.0/static/css/main.8c87eeb2.chunk.css",
+    "main.js": "/Tevvels/Portfolio2.0/static/js/main.74291ea7.chunk.js",
+    "main.js.map": "/Tevvels/Portfolio2.0/static/js/main.74291ea7.chunk.js.map",
+    "runtime-main.js": "/Tevvels/Portfolio2.0/static/js/runtime-main.0c57ea20.js",
+    "runtime-main.js.map": "/Tevvels/Portfolio2.0/static/js/runtime-main.0c57ea20.js.map",
+    "static/js/2.1ebb2df0.chunk.js": "/Tevvels/Portfolio2.0/static/js/2.1ebb2df0.chunk.js",
+    "static/js/2.1ebb2df0.chunk.js.map": "/Tevvels/Portfolio2.0/static/js/2.1ebb2df0.chunk.js.map",
+    "static/js/3.c297d62d.chunk.js": "/Tevvels/Portfolio2.0/static/js/3.c297d62d.chunk.js",
+    "static/js/3.c297d62d.chunk.js.map": "/Tevvels/Portfolio2.0/static/js/3.c297d62d.chunk.js.map",
+    "index.html": "/Tevvels/Portfolio2.0/index.html",
+    "static/css/main.8c87eeb2.chunk.css.map": "/Tevvels/Portfolio2.0/static/css/main.8c87eeb2.chunk.css.map",
+    "static/js/2.1ebb2df0.chunk.js.LICENSE.txt": "/Tevvels/Portfolio2.0/static/js/2.1ebb2df0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0c57ea20.js",
+    "static/js/2.1ebb2df0.chunk.js",
+    "static/css/main.8c87eeb2.chunk.css",
+    "static/js/main.74291ea7.chunk.js"
+  ]
+}
