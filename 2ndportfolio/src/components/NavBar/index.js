@@ -1,15 +1,16 @@
 import React from 'react';
 import { Link } from "react-router-dom";
+import "./style.css"
 
 function Navbar() {
     return (
-        <nav>
+        <nav className={`navbar`}>
             <Link to="/">
                 Wiki 
             </Link>
-            <div>
-                <ul>
-                    <li>
+            <div className={`nav-list`}>
+                <ul className={`nav-list`}>
+                    <li className={`nav-listitem`}>
                         <Link to="/" className={
                                 window.location.pathname === "/" || window.location.pathname === "/home"
                                 ? "nav-link active"
